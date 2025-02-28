@@ -1,0 +1,8 @@
+[package]
+name = "saxonrs"
+version = "0.1.0"
+edition = "2024"
+authors = ["Nicolás Martino <nicomartino1@gmail.com>"]
+
+[dependencies]
+saxonrs-sys = { path = "../saxonrs-sys" }
