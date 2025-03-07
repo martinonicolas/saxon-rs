@@ -5,3 +5,7 @@ edition = "2024"
 authors = ["Nicolás Martino <nicomartino1@gmail.com>"]
 
 [dependencies]
+
+
+[build-dependencies]
+bindgen = "0.71.1"

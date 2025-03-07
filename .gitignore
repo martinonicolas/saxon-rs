@@ -22,3 +22,4 @@ Cargo.lock
 
 
 saxonrs-sys/libsaxonc/
+saxonrs-sys/libsaxonc.a
