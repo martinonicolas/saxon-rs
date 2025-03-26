@@ -6,3 +6,4 @@ authors = ["Nicolás Martino <nicomartino1@gmail.com>"]
 
 [dependencies]
 saxonrs-sys = { path = "../saxonrs-sys" }
+thiserror = "2.0.12"
